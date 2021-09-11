@@ -1,2 +1,2 @@
 # site pra academia
- primeiro site aqui
+ primeiro site aqui.
